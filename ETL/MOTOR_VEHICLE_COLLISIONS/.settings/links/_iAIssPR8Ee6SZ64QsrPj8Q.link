@@ -1,0 +1,29 @@
+{
+  "itemId" : "_iAIssPR8Ee6SZ64QsrPj8Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_JshQkPVoEe6bCfq0K5l-UQ",
+    "parameterList" : [ {
+      "id" : "_JsxvQvVoEe6bCfq0K5l-UQ",
+      "name" : "SQL_Server1_Login"
+    }, {
+      "id" : "_JsxvR_VoEe6bCfq0K5l-UQ",
+      "name" : "SQL_Server1_AdditionalParams"
+    }, {
+      "id" : "_JsxvRPVoEe6bCfq0K5l-UQ",
+      "name" : "SQL_Server1_Password"
+    }, {
+      "id" : "_JsxvQfVoEe6bCfq0K5l-UQ",
+      "name" : "SQL_Server1_Schema"
+    }, {
+      "id" : "_JsxvRvVoEe6bCfq0K5l-UQ",
+      "name" : "SQL_Server1_Server"
+    }, {
+      "id" : "_JsxvRfVoEe6bCfq0K5l-UQ",
+      "name" : "SQL_Server1_Database"
+    }, {
+      "id" : "_JsxvQ_VoEe6bCfq0K5l-UQ",
+      "name" : "SQL_Server1_Port"
+    } ]
+  } ]
+}

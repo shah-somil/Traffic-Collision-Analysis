@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_fqS0gPH8Ee6KLsU8xk-fmw" label="motor-vehicle-collisions" description="" language="java" technicalLabel="MOTOR_VEHICLE_COLLISIONS" local="true" author="_fqS0gfH8Ee6KLsU8xk-fmw" productVersion="Talend Cloud Data Fabric-8.0.1.20231017_1026-patch" type="DQ" itemsRelationVersion="1.3">
+    <componentsSettings xmi:id="_PIwoQPzmEe6SJPdi6DNrDA" name="DI|tHashOutput" family="Technical"/>
+    <componentsSettings xmi:id="_PIwoQfzmEe6SJPdi6DNrDA" name="DI|tArrayIn" family="Technical"/>
+    <componentsSettings xmi:id="_PIwoQvzmEe6SJPdi6DNrDA" name="DI|tArray" family="Technical"/>
+    <componentsSettings xmi:id="_PIwoQ_zmEe6SJPdi6DNrDA" name="DI|tHashInput" family="Technical"/>
+    <migrationTask xmi:id="_fq6fkPH8Ee6KLsU8xk-fmw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_fqS0gfH8Ee6KLsU8xk-fmw" login="shah.som@northeastern.edu" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
